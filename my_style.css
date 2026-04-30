@@ -1,0 +1,84 @@
+#header{
+  float: left;  
+  height: 100px;
+    width: 100%;
+
+    font-family: 'Courier New', monospace;
+    font-size: 50px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(108, 214, 87);
+}
+#menu{
+  float: left;
+  width: 1900px;
+  height: 575px;
+  margin-bottom: 100px;
+  background-image: url('menu.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+
+#gofish{
+  position: absolute;
+  height: 330px;
+  width: 360px;
+  left: 1241px;
+  top: 465px;
+  background-image: url('gofish1.png');
+  background-repeat: no-repeat;
+}
+#gofish:hover{
+  background-image: url('gofish.png');
+}
+
+
+#escaperoom{
+  position: absolute;
+  height: 360px;
+  width: 545px;
+  left: 240px;
+  top: 220px;
+  background-image: url('escaperoom1.png');
+  background-repeat: no-repeat;
+}
+#escaperoom:hover{
+  background-image: url('escaperoom.png');
+}
+
+
+#about{
+  float: left;
+    height: 200px;
+    width:25%;
+    margin: 1.2%;
+    background-color: red;
+
+    font-size: 50px;
+    text-align: center;
+    color: aliceblue;
+    padding: 1%;
+}
+
+
+
+#menu1{
+  float: left;
+  width: 100%;
+  aspect-ratio: 12.1/3.128;
+  background-image: url('menu.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+#gofish1{
+  position: absolute;
+  height: 330px;
+  width: 360px;
+  left: 61.5vw;
+  top: 30vh;
+  opacity: 0.5;
+  background-image: url('gofish.png');
+}
