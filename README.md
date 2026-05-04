@@ -1,2 +1,3 @@
-This repository is for a language learning game project called Linguify
-This was a group project for the Tech Solutions class at the Blue Valley Center for Advanced Professional Studies (CAPS)
+This repository is for a language learning game project called Linguify.  This was a group project for the Tech Solutions class at the Blue Valley Center for Advanced Professional Studies (CAPS)
+
+The linguify.game domain was only registered for one year (until March 4, 2027), at which point the domain will need to be changed to either a new custom domain or the website can be accessed at evanungles.github.io/Linguify. To set a new custom domain, register a domain with a domain registrar, then either change the domain in the CNAME file or go to the "Pages" tab in the settings for this repository and change the domain under "Custom Domain". If you decide not to register a new domain, the website can be accessed at evanungles.github.io/Linguify (the CNAME file may need to be removed).
